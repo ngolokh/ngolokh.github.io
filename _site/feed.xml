@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-01-17T17:14:07+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dveloper partices</title><subtitle>ngolo kante is best</subtitle><author><name>ngolokh</name></author><entry><title type="html">First Post</title><link href="http://localhost:4000/first-post/" rel="alternate" type="text/html" title="First Post" /><published>2026-01-15T00:00:00+09:00</published><updated>2026-01-15T00:00:00+09:00</updated><id>http://localhost:4000/first-post</id><content type="html" xml:base="http://localhost:4000/first-post/"><![CDATA[<h1 id="front-matter">Front Matter</h1>
-<hr />
-<p>title: “Hello world!”
-categories: blog
-tags: jekyll</p>
-<h1 id="목차">목차</h1>
-<p>toc: true<br />
-toc_sticky: true 
-—</p>]]></content><author><name>ngolokh</name></author><summary type="html"><![CDATA[Front Matter title: “Hello world!” categories: blog tags: jekyll 목차 toc: true toc_sticky: true —]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-01-19T20:31:00+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dveloper partices</title><subtitle>ngolo kante is best</subtitle><author><name>ngolokh</name></author><entry><title type="html">Hello world!</title><link href="http://localhost:4000/blog/first-post/" rel="alternate" type="text/html" title="Hello world!" /><published>2026-01-15T00:00:00+09:00</published><updated>2026-01-15T00:00:00+09:00</updated><id>http://localhost:4000/blog/first-post</id><content type="html" xml:base="http://localhost:4000/blog/first-post/"><![CDATA[<h2 id="git-blog를-기술-블로그로-채택하였다">Git blog를 기술 블로그로 채택하였다.</h2>
+<p>*github blog 서비스 이름은 pages이다.<br />
+정말로 어렵다.<br />
+—
+—</p>
+<h2 id="문단을-계속-닫아-줘야-하는구나">문단을 계속 닫아 줘야 하는구나….</h2>
+<p>마크다운 공부를 해야겠다.</p>
+
+<hr />]]></content><author><name>ngolokh</name></author><category term="blog" /><category term="jekyll" /><summary type="html"><![CDATA[Git blog를 기술 블로그로 채택하였다. *github blog 서비스 이름은 pages이다. 정말로 어렵다. — — 문단을 계속 닫아 줘야 하는구나…. 마크다운 공부를 해야겠다.]]></summary></entry></feed>
